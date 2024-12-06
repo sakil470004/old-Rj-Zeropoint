@@ -20,9 +20,7 @@ jsonwebtoken,
 cookie-parser,
 bcryptjs,
 server.js => basic setup,
-```
-//added extra stff
-```
+
 ## for install
 ### npm install //this file for server,
 ### cd frontend //go to frontend dir,
