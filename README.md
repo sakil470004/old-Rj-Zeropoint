@@ -1,5 +1,5 @@
 
-Here is staff here . This project I throw away
+Here is staff here . This project I throw away// due to payment issue
 
 ## Frontend=>
 React,
